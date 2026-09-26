@@ -1,0 +1,6 @@
+{
+  "name": "Mora",
+  "description": "Mora - Modern dating app with intuitive card swiping, spark chemistry matching, dynamic date vibe planner, rich chat & audio notes, and curated discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
